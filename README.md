@@ -21,5 +21,11 @@ Example
 This is a basic example which shows you how to solve a common problem:
 
 ``` r
-## basic example code
+# test oil gravity conversion from rNodal.utils
+library(rNodal.utils)
+
+api_to_specific_gravity(40)
+#> [1] 0.8250729
+specific_gravity_to_api(0.8250729)
+#> [1] 40
 ```
