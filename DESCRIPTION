@@ -6,6 +6,7 @@ Author: Alfonso R. Reyes <alfonso.reyes@oilgainsanalytics.com>
 Maintainer: Maintainer: The package maintainer <yourself@somewhere.net>
 Description: Correlations and Mechanistic Models for Vertical Lift Performance (VLP) 
     of Oil and Gas Wells.
+Imports: rNodal.utils    
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
