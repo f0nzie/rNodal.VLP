@@ -1,11 +1,11 @@
 Package: rNodal.VLP
 Type: Package
-Title: Vertical Lift Performance analysis for oil and gas wells
+Title: Correlations and Mechanistic Models for Vertical Lift Performance (VLP) of Oil and Gas Wells
 Version: 0.1.0
 Author: Alfonso R. Reyes <alfonso.reyes@oilgainsanalytics.com>
 Maintainer: Maintainer: The package maintainer <yourself@somewhere.net>
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
+Description: Correlations and Mechanistic Models for Vertical Lift Performance (VLP) 
+    of Oil and Gas Wells.
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
